@@ -1,1 +1,3 @@
 Sample file for Git Real course!
+
+Making changes...
